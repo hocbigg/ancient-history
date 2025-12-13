@@ -33,8 +33,7 @@ or that there was an alternative that fit better into the curriculum.
 | [History of Ancient Philosophy](https://www.thegreatcoursesplus.com/history-of-ancient-philosophy) | 36 lectures | 30 min/lecture |
 | [The Incas and Their Ancestors](https://www.audible.com/pd/The-Incas-and-Their-Ancestors-Audiobook/B00DJUK5GW) | 24 lectures | 30 min/lecture |
 
-# Online Learning - Great Courses
-
+## Online Learning - Great Courses
 
 Courses | Duration | Effort
 :-- | :--: | :--:
