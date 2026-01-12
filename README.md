@@ -83,8 +83,6 @@ This roadmap is designed for complete beginners who want to build a solid, colle
 
 These sections form the essential foundation of the discipline. They give you the basic chronological spine of ancient history plus the most important skills and concepts needed to understand the field coherently.
 
-**Study these sections in this exact order:**
-
 1. **I. Historical Method & Evidence**  
    Start here. This section teaches you how historians think, how we know what we know, and how to work with ancient evidence. It is the most important starting point.
 
